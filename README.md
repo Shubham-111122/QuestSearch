@@ -65,8 +65,8 @@ To run the entire project using Docker, follow these steps:
 2. Build and start the container in the root folder:
 
     ```bash
-    docker build -t questsearch-backend .
-    docker run -d --name questsearch-backend -p 8080:8080 -p 50051:50051 envoy-server
+    docker build -t envoy-server .
+    docker run -d --name envoy-server -p 8081:8081 -p 9090:9090 envoy-server
     ```
 
 ### 5. Enhancements & Unique Features
