@@ -1,0 +1,23 @@
+{
+    "name": "question-search-backend",
+    "version": "1.0.0",
+    "main": "src/server.js",
+    "scripts": {
+        "start": "node src/server.js",
+        "dev": "nodemon src/server.js"
+    },
+    "dependencies": {
+        "@grpc/grpc-js": "^1.12.5",
+        "@grpc/proto-loader": "^0.7.13",
+        "@improbable-eng/grpc-web": "^0.15.0",
+        "cors": "^2.8.5",
+        "dotenv": "^16.3.1",
+        "google-protobuf": "^3.21.4",
+        "grpc-server-reflection": "^0.1.5",
+        "grpc-web": "^1.5.0",
+        "mongoose": "^7.5.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
