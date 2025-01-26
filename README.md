@@ -79,3 +79,12 @@ To run the entire project using Docker, follow these steps:
 
 3. Filters
    The search results can be filtered based on question types such as "Anagram", "MCQ", "Read Along", and more.
+
+
+### UI Images
+![Screenshot (409)](https://github.com/user-attachments/assets/a77b55fc-4a9e-4530-86d4-5edcc13c9cc1)
+![Screenshot (408)](https://github.com/user-attachments/assets/6f602d7a-4ea0-43b0-9de3-b599904447a9)
+![Screenshot (407)](https://github.com/user-attachments/assets/a783878e-2920-4676-9d52-94fa0db4c058)
+
+
+
