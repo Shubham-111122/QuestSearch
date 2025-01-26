@@ -66,7 +66,7 @@ To run the entire project using Docker, follow these steps:
 
     ```bash
     docker build -t envoy-server .
-    docker run -d --name envoy-server -p 8081:8081 -p 9090:9090 envoy-server
+    docker run -d --name envoy-server -p 8080:8080 -p 50051:50051 envoy-server
     ```
 
 ### 5. Enhancements & Unique Features
